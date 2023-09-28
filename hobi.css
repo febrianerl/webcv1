@@ -1,0 +1,37 @@
+
+a{
+   font-size: 20px;
+   position: absolute;
+   bottom: 10%;
+   left: 10%;
+   color: rgb(241, 241, 242);
+}
+a:hover{
+   color: brown;
+   font-size: 30px;
+}
+ul{
+  justify-content: center;
+    display: flex;
+    font-size: 25px;
+}
+body{
+   background-color: rgb(180, 184, 184);
+    background-image: url("gambar/op.jpg");
+    background-repeat: repeat-y;
+}
+h1{
+   color: azure;
+   text-align: center;
+}
+figcaption{
+   color: black;
+}
+h1{
+   color: black;
+}
+
+img{
+   padding: 10px;
+   margin: 10px;
+}

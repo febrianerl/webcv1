@@ -1,0 +1,17 @@
+p{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+   position: absolute;
+   bottom: 10%;
+   left: 5%;
+}
+a:hover{
+    color: greenyellow;
+}
+body{
+    background-color: rgb(180, 184, 184);
+    background-image: url("gambar/l.jpg");
+    background-repeat: repeat-y;
+}

@@ -1,0 +1,38 @@
+h1{
+    color: rgb(14, 14, 235);
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h2{
+    color: rgb(173, 230, 178);
+    text-align: center;
+    font-size: 30px;
+}
+
+.pilihan{   
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+}
+a{
+    padding: 20px;
+    margin: 20px;
+}
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   max-width: 300px;
+   height: 300px;
+}
+body{
+    background-color: rgb(180, 184, 184);
+    background-image: url("gambar/banf.jpg");
+    background-repeat: repeat-y;
+}
+.pilihan a:hover{
+    color: rgb(4, 235, 12);
+}
